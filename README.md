@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K-u-r-a.I am currently learning Python.
+- 👋 Hi, I’m @K-u-r-a..
 - 👀 I’m interested in ...IoT,Embedded systems and PCB Design
 - 🌱 I’m currently learning ...Python and C++
 - 💞️ I’m looking to collaborate on ...various open source projects in IoT
